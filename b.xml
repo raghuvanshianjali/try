@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <name>Tech Innovations Inc.</name>
+    <address>
+        <street>123 Innovation Parkway</street>
+        <city>Tech City</city>
+        <state>CA</state>
+        <zip>90001</zip>
+    </address>
+    <contact>
+        <phone>+1-800-555-1234</phone>
+        <email>contact@techinnovations.com</email>
+    </contact>
+    <employees>
+        <employee id="E001">
+            <first_name>John</first_name>
+            <last_name>Doe</last_name>
+            <position>CEO</position>
+        </employee>
+        <employee id="E002">
+            <first_name>Jane</first_name>
+            <last_name>Smith</last_name>
+            <position>CTO</position>
+        </employee>
+        <employee id="E003">
+            <first_name>Robert</first_name>
+            <last_name>Johnson</last_name>
+            <position>Lead Developer</position>
+        </employee>
+        <employee id="E004">
+            <first_name>Emily</first_name>
+            <last_name>Williams</last_name>
+            <position>Product Manager</position>
+        </employee>
+        <employee id="E005">
+            <first_name>Michael</first_name>
+            <last_name>Brown</last_name>
+            <position>Senior Developer</position>
+        </employee>
+        <employee id="E006">
+            <first_name>Amy</first_name>
+            <last_name>Davis</last_name>
+            <position>HR Manager</position>
+        </employee>
+        <employee id="E007">
+            <first_name>David</first_name>
+            <last_name>Miller</last_name>
+            <position>Marketing Director</position>
+        </employee>
+        <employee id="E008">
+            <first_name>Sarah</first_name>
+            <last_name>Wilson</last_name>
+            <position>Financial Analyst</position>
+        </employee>
+        <employee id="E009">
+            <first_name>James</first_name>
+            <last_name>Moore</last_name>
+            <position>UX/UI Designer</position>
+        </employee>
+        <employee id="E010">
+            <first_name>Jessica</first_name>
+            <last_name>Taylor</last_name>
+            <position>Sales Manager</position>
+        </employee>
+    </employees>
+</company>
